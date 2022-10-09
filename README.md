@@ -1,4 +1,4 @@
-#### Hi there! My name is Lisa, and I am a frontend-developer beginner. Nice to meet you in my profile! &#127799;
+#### Hello World! My name is Lisa, and I'm a frontend-developer beginner. Nice to meet you in my profile! &#127799;
 
 #### My skills: 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4)
