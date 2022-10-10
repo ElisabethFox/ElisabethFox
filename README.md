@@ -1,4 +1,4 @@
-![Untitled-1](https://user-images.githubusercontent.com/113031521/194955248-6f1e606d-123e-4a79-8cbc-2c897d85aefc.svg)
+![Untitled-1](https://user-images.githubusercontent.com/113031521/194956321-6191dc57-3989-47df-9fd3-6069675bf8b6.svg)
 #### My skills: 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=ff69b4)
