@@ -11,8 +11,8 @@
 ![](https://img.shields.io/badge/WebPack-informational?style=flat&logo=webpack&logoColor=white&color=50DDED)
 
 #### My contacts: 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=BAA5E5)](t.me/lisagontsova)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=BAA5E5)](lisagontsova@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=BAA5E5)](https://t.me/lisagontsova)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=BAA5E5)](https://lisagontsova@gmail.com)
 [![Habr Badge](https://img.shields.io/badge/Habr-informational?style=flat&logo=Habr&logoColor=white&color=BAA5E5)](https://career.habr.com/lisagontsova)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-informational?style=flat&logo=StackOverflow&logoColor=white&color=BAA5E5)](https://ru.stackoverflow.com/users/539927/lisa)
 
