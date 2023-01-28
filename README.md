@@ -9,7 +9,8 @@
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=black&color=50DDED)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=black&color=50DDED)
 ![](https://img.shields.io/badge/WebPack-informational?style=flat&logo=webpack&logoColor=black&color=50DDED)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=vscode&logoColor=black&color=50DDED)
+
+#### My skills: 
 
 <!--
 **ElisabethFox/ElisabethFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
