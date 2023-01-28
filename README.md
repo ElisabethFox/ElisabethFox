@@ -12,8 +12,9 @@
 
 #### My contacts: 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=BAA5E5)](@lisagontsova)
-[![Telegram Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=BAA5E5)](lisagontsova@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=BAA5E5)](lisagontsova@gmail.com)
+[![Habr Badge](https://img.shields.io/badge/Habr-informational?style=flat&logo=Habr&logoColor=white&color=BAA5E5)](https://career.habr.com/lisagontsova)
+[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-informational?style=flat&logo=StackOverflow&logoColor=white&color=BAA5E5)](https://ru.stackoverflow.com/users/539927/lisa)
 <!--
 **ElisabethFox/ElisabethFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
