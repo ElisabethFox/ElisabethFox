@@ -1,17 +1,26 @@
 ![Untitled-1](https://user-images.githubusercontent.com/113031521/194956321-6191dc57-3989-47df-9fd3-6069675bf8b6.svg)
 #### My skills: 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FB8AD5)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=FB8AD5)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=FB8AD5)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FB8AD5)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=FB8AD5)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=FB8AD5)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=FB8AD5)
+![](https://img.shields.io/badge/Axios-informational?style=flat&logo=axios&logoColor=white&color=FB8AD5)
+![](https://img.shields.io/badge/i18next-informational?style=flat&logo=i18next&logoColor=white&color=FB8AD5)
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=FB8AD5)
 
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=50DDED)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=50DDED)
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=50DDED)
+![](https://img.shields.io/badge/GitHubActions-informational?style=flat&logo=githubactions&logoColor=white&color=50DDED)
+![](https://img.shields.io/badge/ESLint-informational?style=flat&logo=eslint&logoColor=white&color=50DDED)
 ![](https://img.shields.io/badge/WebPack-informational?style=flat&logo=webpack&logoColor=white&color=50DDED)
+![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=50DDED)
+![](https://img.shields.io/badge/Railway-informational?style=flat&logo=railway&logoColor=white&color=50DDED)
 
 #### My contacts: 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=BAA5E5)](https://t.me/lisagontsova)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-informational?style=flat&logo=gmail&logoColor=white&color=BAA5E5)](https://mailto:lisagontsova@gmail.com)
 [![Habr Badge](https://img.shields.io/badge/Habr-informational?style=flat&logo=Habr&logoColor=white&color=BAA5E5)](https://career.habr.com/lisagontsova)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-informational?style=flat&logo=StackOverflow&logoColor=white&color=BAA5E5)](https://ru.stackoverflow.com/users/539927/lisa)
 
